@@ -2,8 +2,7 @@
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/ig_shubhranshu_428/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shubhranshu-sekhar-sethi-89b4b2249/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ https://x.com/Shubhranshu6370?t=MnHloAjgiYvVpXvV5SdzAw&s=09) 
 
-# 💻 Tech Stack:# 💫 About Me:
-Hey, I'm Shubhranshu 💀 
+# 💻 Tech Stack:# 
 
 
 ## 🌐 Socials:
